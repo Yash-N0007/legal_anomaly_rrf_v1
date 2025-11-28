@@ -1,0 +1,223 @@
+Sentence,PPL_Score,Semantic_Score,Context_Score,RRF_Fused
+"A G R E E M E N T
+This Agreement is made and entered into at Mumbai, and effective on this
+__________ day of____________ of Two Thousand Eighteen.",0.4316541909311866,0.39798787,tensor(0.),0.040545254008804765
+"BETWEEN
+The Municipal Corporation of Greater Mumbai a body corporate having
+perpetual  succession  and  a  common  seal  constituted  by the  Mumbai  Municipal
+Corporation Act 1888, hereinafter referred to “MCGM” 
+REPRESENTED BY 
+Smt.",0.4707918465037907,0.1288791,tensor(0.4601),0.04061974061974062
+"Nidhi Choudhari, Deputy Municipal Commissioner (Special), having
+office  at  3rd Floor,  Annexe  Building,  Municipal  Head  Office,  Mahapalika  Marg,
+Mumbai- 400001, hereinafter referred to as “DMC(Special)” (which expression shall
+unless repugnant to the context or meaning thereof be deemed to mean and include
+the successor or successors for the time being holding the office of the Deputy
+Municipal Commissioner (Special)) of the First Part;
+AND
+Shri/ Smt.",0.28275774026802886,0.14627628,tensor(0.5031),0.028009901069669135
+"________________________________, an Indian Inhabitant of
+Mumbai, residing at ___________________________________________________,
+having Sanad Registration No.",1.0,0.8436473,tensor(0.5349),0.03408650724227352
+"________________________ of ___________  and
+being the Member of _______________ Bar Association of the ____________ Court;
+hereinafter referred to as  “Sr.",0.6951702340765292,0.6034459,tensor(0.5600),0.03488091560380717
+"Panel Advocate”   (which expression shall unless
+repugnant to the context or meaning thereof be deemed to mean and include his
+1
+ heirs, executors, administrators and assigns) of the Second Part;
+WHEREAS the Municipal Commissioner for Greater Mumbai has interallia
+deputed under Section 56 of the Mumbai Municipal Corporation Act, 1888 his powers,
+functions and duties to the Deputy Municipal Commissioner (Special), for purpose of
+this Agreement.",0.24552268300736238,0.06785799,tensor(0.5500),0.03558213716108453
+AND  WHEREAS  the Municipal Commissioner vide its order under no.,0.264146480666113,0.19468866,tensor(0.6577),0.0371718813490451
+"MGC/A/4503  dated  10.10.2017  had  accorded  sanction  for  Empanelment  of
+Advocates for Sr. Panel (A, B and C) of MCGM, who have experience in handling
+court matters in the Hon'ble Supreme Court of India and in the Hon'ble High Courts,
+on behalf of MCGM.",0.2126742679698349,0.049595986,tensor(0.4909),0.03071946169772257
+"AND  WHEREAS accordingly  the  MCGM  had  invited  Expression  of
+Interests (EOIs) in the prescribed format through E-mail from eligible candidates for
+Empanelment of Advocates for Sr. Panel 'A', 'B' & 'C' of MCGM for handling court
+matters in the Hon'ble Supreme Court of India and in the Hon'ble High Courts on
+behalf of MCGM.",0.4091301947386456,0.05640993,tensor(0.1812),0.03404789582486299
+"AND WHEREAS the party of the Second Part  has shown willingness to
+represent the MCGM as an Advocate of Sr. Panel (A / B / C / Supreme Court
+Standing  Counsel  /  Advocate  on  Record)  for  the  MCGM,  and  has  submitted
+Declaration to that effect, whereby agreeing to have read and understood the terms
+and conditions of the empanelment as displayed on MCGM portal and to abide by the
+same and to maintain absolute secrecy about the cases of MCGM as required under
+the Act, Rules and Regulations there under.",0.20201607797124235,0.006033491,tensor(0.0929),0.03396481283511092
+"AND WHEREAS it is felt prudent to utilize, the expertise and experience of
+the party of the Second Part by empanelment as an Advocate of Sr. Panel (A / B / C /
+Supreme Court Standing Counsel / Advocate on Record) for the MCGM
+AND  WHEREAS the Municipal Commissioner vide its order under no.",0.28680436782560204,0.0133745335,tensor(0.3761),0.03825085589791472
+MGC/F/6674 dtd.,0.24256357683516797,0.40802884,tensor(0.7543),0.0327712514630023
+"25.06.2018 has granted sanction for lists of empaneled Advocates
+of Sr. Panel (A, B, C, Supreme Court Standing Counsel, Advocate on Record) for
+MCGM wherein the party of the Second Part is listed in Sr. Panel (A / B / C / Supreme
+Court Standing Counsel / Advocate on Record) for the initial period for three years,
+however subject to the satisfaction of MCGM.",0.28913739458158094,0.046547264,tensor(0.4159),0.032357471121599805
+"AND WHEREAS  the party of the Second Part has agreed to accept the
+Empanelment of Advocates for Sr. Panel (A / B / C / Supreme Court Standing
+Counsel / Advocate on Record) for MCGM  subject to  the terms and conditions
+hereinafter appearing.",0.2798922120715402,0.0,tensor(0.0066),0.035987109291504296
+"2
+ AND WHEREAS the party of the Second Part has agreed to comply with
+the terms and conditions hereinafter appearing and is desirous of recording the same
+subject to compliance of which the Empanelment as aforesaid has been approved by
+the MCGM in favour of the party of the Second Part.",0.12356187505757706,0.15684798,tensor(0.1303),0.03589897497460523
+"NOW THIS AGREEMENT WITNESSETH AND IT IS HEREBY AGREED BY AND
+BETWEEN THE PARTIES HERETO AS FOLLOWS: -
+1.",0.11823030632164237,0.36089343,tensor(0.2499),0.028583678225301758
+"The parties hereto agree that the recitals enumerated herein above shall 
+be deemed to form an integral and operative part of this Agreement as if 
+the same were specifically set out and incorporated herein.",0.379634774436693,0.32855108,tensor(0.5257),0.0364301860545992
+2.,0.0015071590391053272,0.72378886,tensor(0.8174),0.032293278926879596
+"Definations-
+2.1
+'Advocate' means an advocate, entered in roll of advocates
+under the provisions of The Advocates Act, 1961.",0.8311696028889954,0.091466956,tensor(0.6905),0.03572981823298413
+"(The Act)
+2.2
+'Sr.",0.12806295647889074,0.27126077,tensor(0.7913),0.029017909189557607
+"Counsel'  means  an  advocate  designated  as  Senior
+Advocate under section 16(2) of The Advocates Act, 1961
+2.3
+'Competent  Authority'  shall  be  the  Municipal  Commissioner,
+MCGM or any other officer so designated by the Municipal
+Commissioner, MCGM.",0.2710763307071425,0.07866883,tensor(0.7258),0.02975161902982751
+"2.4
+'Court' shall mean all courts of law including District Courts at
+Mumbai, any High Court, Supreme Court, Tribunals, Judicial
+Forums and Arbitrators etc.",0.32581761483324273,0.20277633,tensor(0.5207),0.032666627260323225
+"2.5
+'Effective Hearing' shall mean a hearing in which either one or
+both  parties  involved  in  a  case  are  heard  by  the  Courts  /
+arguments were advance by the Counsel of any of the parties,
+Examination-in-chief,  cross  examination  is  conducted,
+issues/charges has been framed and statement under section
+313 of P.C.",0.21048589078112395,0.013442142,tensor(0.7750),0.03435656235431754
+is recorded.,0.5587510396343791,1.0,tensor(1.),0.033069872313310295
+"And in addition to the above, effective
+hearings are according to the High Court Rules.",0.2884441863434523,0.24275686,tensor(0.7938),0.031961063627730296
+"2.6
+'Non-effective Hearing' shall mean all hearings which are not
+covered in the above definition of effective hearing.",0.3797557763114368,0.11127222,tensor(0.5259),0.03424000924000924
+"2.7
+A hearing in which either one or both the parties involved in a
+case are heard by the court.",0.18067794494837566,0.15665843,tensor(0.4236),0.043629955107824574
+"If the case is mentioned and
+adjourned or only directions are given or only judgement is
+delivered by the court, it would not  constitute  as  Effective
+Hearing, but will be termed as Non-Effective Hearing.",0.6435095896830897,0.17603792,tensor(0.5505),0.03393513597307113
+"2.8
+'Similar Cases' or 'Identical Cases' shall mean two or more
+cases in which substantially identical question of law or facts
+3
+ are involved and where the main difference is in the names,
+addresses of the parties concerned, amount of money involved,
+etc.",0.38213029725978864,0.3159148,tensor(0.5777),0.041587602783048704
+"Where the common or identical judgement are delivered
+irrespective  of  the  facts  whether  all  the  cases  are  heard
+together or not.",0.6585995408319643,0.16855265,tensor(0.4417),0.029386193229038238
+"2.9
+Documented Cases - 
+All  suits  and  appeals  are  deemed  to  be
+'uncontested', if these are withdrawn by the plaintiff/ appellant
+or are dismissed in limine or otherwise decided by the court ex-
+parte before final hearing.",0.36159141796284283,0.04411934,tensor(0.3438),0.045444661883018045
+"No writ petition/ revision petition/
+second  appeal  (including  any  interlocutory  application
+connected therewith) will be considered as 'uncontested'.",0.4900242280645044,0.19135314,tensor(0.3834),0.0312221440300258
+"If it is
+decided by the court on  preliminary  legal  objection  or  is
+withdrawn by the petitioner/ appellant at or during any stage of
+the final hearing in the presence of the MCGM or is withdrawn
+by the MCGM at the time of its admission.",0.2874644908731964,0.07965697,tensor(0.7416),0.034787714543812104
+3.,0.0,0.7032466,tensor(0.8974),0.033713508713508714
+"Scope of work for Empaneled Sr. Panel Advocate-
+As  per  requirement  of  MCGM  the  party  of  the  Second  Part  has  to  
+undertake various functions from time to time including drafting (Original 
+plaints, miscellaneous petitions, affidavits, counter affidavits etc.",0.21110285197420994,0.0099532725,tensor(0.6726),0.03518666529160006
+"), legal  
+vetting, act as leading or Assisting Advocate to Sr.",0.24748081993939386,0.2526377,tensor(0.4663),0.0357883229156165
+"Advocates, attending 
+conference/ meeting, written submissions, hearing, arguments, sending  
+brief/ record of proceedings to MCGM and all documents received in the 
+court, orders and any other legal functions as desired by the MCGM, to 
+represent the MCGM before Hon'ble High Courts & Hon'ble Supreme  
+Court of India.",0.6370616314129236,0.06683944,tensor(0.3241),0.03698808566065204
+"The party of the Second Part hereby agrees to attend the conference,  
+meetings held in the MCGM office, with Senior Officers of MCGM for  
+briefing the Court assigned matters as when called for.",0.25549274196757815,0.0687338,tensor(0.5144),0.03386110855777186
+4.,0.013220227287094046,0.6932534,tensor(0.7302),0.04154594357512352
+"Payment of Professional Fees payable to the party of the Second Part
+and Other Conditions-
+4.1
+Schedule of Fees is enclosed at Annexure-I
+4.2
+Rates mentioned therein are inclusive of GST as applicable.",0.23832379228429548,0.10947721,tensor(0.2952),0.02905632571988958
+"4.3
+The  fee  payable  to  the  party  of  the  Second  Part  shall  be
+governed by the Schedule of Fees of MCGM as specified and
+the same are inclusive of GST.",0.13330018759624732,0.08164956,tensor(0.0904),0.041613248708736277
+"4.4
+No retainer fees shall be paid to the party of the Second Part
+merely because of Empanelment.",0.8005304162089999,0.07065828,tensor(0.2927),0.03868446429477745
+"4.5
+In case, the party of the Second part appears in the Court on
+4
+ the dates fixed for hearing of a case, but the case adjourned for
+whatever reasons and there being no effective hearing on that
+day, then the party of the Second Part shall be entitled to claim
+50% of the fees prescribed.",0.25543178431073355,0.07957228,tensor(0.3817),0.028117167919799495
+"However the same will not be
+more than 2 occasions in the matter, thereafter no fees will be
+paid for further non effective hearings in the matter.",0.3233347609416674,0.10950175,tensor(0.4408),0.041287260106165784
+"4.6
+Similarly, the Party of the Second Part is entitled for conference
+not more than two conference in a single matter.",0.31870006033546977,0.03746184,tensor(0.4250),0.032143815658308414
+"4.7
+No fees will be payable to the Party of the Second Part if an
+advance notice about the adjournment has been issued or the
+case has been adjourned at his/ her request due to the reasons
+personal to him/ her.",0.23586828693420644,0.115840614,tensor(0.4104),0.030511277083795384
+"4.8
+Soft copies of the orders may be furnished in lieu of the paper
+copy of the order in such manner as may be prescribed in
+support of showing presence on the particular date of effective/
+non-effective  hearing,  a  hard  copy  of  the  Order/  Roznama
+obtained from web site of the Hon'ble High Court or Hon'ble
+Supreme Court of India shall be submitted for verification of the
+bill and necessary approval.",0.3878790726149013,0.01374917,tensor(0.3593),0.030698611733094492
+"4.9
+While claiming fees, self attested computerized copies of the
+said order be submitted for verification and necessary approval.",0.3232225234886372,0.08701349,tensor(0.2696),0.032606235082798155
+"The copies of Order/ Roznama shall be submitted with fees bill
+in given proforma in triplicate.",0.4992829308670176,0.1888423,tensor(0.4005),0.0391318890339636
+"(Annexure-II)
+4.10
+If any dispute arises in respect of fees to be paid to the party of
+the  Second  Part,  the  decision  of  the  Additional  Municipal
+Commissioner (in charge of Legal Department) shall be final
+and shall not be questioned in any way.",0.2470194955509363,0.013517268,tensor(0.7402),0.0344143404488232
+5.,0.011658202918341574,0.7406018,tensor(0.9054),0.03774208650621519
+"Tenure of Empanelment :
+The initial Empanelment will be for three years or until further order  
+whichever  is  earlier.",0.9985205565151016,0.29857844,tensor(0.6880),0.03396464646464646
+"Performance  of  empaneled  Advocate shall  be  
+reviewed  on  annual  basis.",0.5576238601838233,0.18976499,tensor(0.4929),0.03351411486580448
+"However,  on  completion  of the  term  and  
+satisfactory performance of the party of the Second Part, the Empanelment
+may be renewed accordingly for a period not more than two years by the 
+MCGM.",0.43372844070993877,0.13012606,tensor(0.2640),0.041025641025641026
+"MCGM reserves the right to terminate the Empanelment of the 
+party of the Second Part at any time without assigning any reason and/ or 
+otherwise.",0.5520219861803289,0.07873434,tensor(0.2101),0.026897938662644547
+"Empaneled Sr. Panel Advocate can terminate the Agreement 
+by giving 1 month notice.",0.5432460815163737,0.104939,tensor(0.7548),0.0323055347294507
+6.,0.08217373122227166,0.7369161,tensor(0.8226),0.03356258043758044
+"Private Practice and Restrictions -
+6.1
+The party of the Second Part shall have the right to private
+5",0.2059827156995962,0.20129138,tensor(0.0322),0.03943452380952381

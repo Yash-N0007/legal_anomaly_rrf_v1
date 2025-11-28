@@ -1,0 +1,9 @@
+gradio
+torch
+transformers
+sentence-transformers
+PyMuPDF
+nltk
+tqdm
+pandas
+numpy
